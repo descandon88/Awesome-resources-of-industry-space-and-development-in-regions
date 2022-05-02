@@ -1,5 +1,5 @@
 # Awesome-resources-of-industry-space
-A collection of papers related with industry space
+A collection of papers related with industry space and paths of growth in particular places or regiones
 
 # Papers
 1. Assessing Ukraine's Role in European Value Chains: A Gravity Equation-cum-Economic Complexity Analysis Approach, Matte Hartog, Frank Neffke, J. Ernesto Lopez-Cordova
