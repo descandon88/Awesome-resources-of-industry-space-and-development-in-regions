@@ -2,8 +2,7 @@
 A collection of papers related with industry space and paths of growth in particular places or regiones
 
 # Papers
-1. Assessing Ukraine's Role in European Value Chains: A Gravity Equation-cum-Economic Complexity Analysis Approach, Matte Hartog, Frank Neffke, J. Ernesto Lopez-Cordova
-https://ideas.repec.org/p/cid/wpfacu/129a.html
+1. Assessing Ukraine's Role in European Value Chains: A Gravity Equation-cum-Economic Complexity Analysis Approach, Matte Hartog, Frank Neffke, J. Ernesto Lopez-Cordova <a href="https://ideas.repec.org/p/cid/wpfacu/129a.html" target="_blank">Paper</a>
 
 2. Revealed Relatedness: Mapping Industry Space, Frank Neffke, Martin Svensson Henning <a href="https://ideas.repec.org/p/egu/wpaper/0819.html" target="_blank"> Paper </a>
 
